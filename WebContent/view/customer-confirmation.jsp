@@ -21,7 +21,7 @@
 	
 	Postal code: ${customer.postalCode}
 	
-	<br><br>
+	<br><br> 
 </body>
 
 </html>
